@@ -8,6 +8,7 @@ package com.mycompany.tarea.ydlcgb;
  *
  * @author Yeray
  */
+
 public class Cuadrado implements Figura {
 
     private int lado;
